@@ -65,7 +65,6 @@ body {
 .logo-ampersand {
     color: transparent;
     -webkit-text-stroke: 1px var(--color-text-primary);
-    text-stroke: 1px var(--color-text-primary);
     margin: 0 6px;
     font-weight: 400;
 }
